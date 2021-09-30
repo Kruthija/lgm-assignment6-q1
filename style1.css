@@ -1,0 +1,23 @@
+#image{
+    float:left;
+    padding:20px,20px,20px,20px;
+    height: 300px;
+    width:400px;
+}
+#container{
+    overflow:auto;
+
+}
+p{
+    font-size:large ;
+}
+p4{
+    color:crimson;
+}
+p1{
+    color:darkolivegreen;
+}
+a:visited{color:deeppink;text-decoration: underline;}
+a:link{color:rgb(97, 8, 240);text-decoration: none;}
+a:active{background-color: yellow;}
+a:hover{color:orangered;}
